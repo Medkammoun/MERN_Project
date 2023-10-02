@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box{
+    display: flex;
+    margin-left: 100px;
+}
+
+.box2{
+    display: flex;
+    margin-left: 100px;
+    
+}
+
+.box3{
+    display: flex;
+    margin-left: 100px;
+}
+
+.image1-400x400 {
+    width: 400px;
+    height: 400px;
+}
+.flex1 {
+    display: flex;
+    gap:  150px;
+}

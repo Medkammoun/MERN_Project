@@ -1,0 +1,54 @@
+/* Style for the page title */
+h1.text-heading {
+    font-size: 26px;
+    line-height: 1.4;
+    font-weight: 700;
+    text-align: center;
+    color: #333;
+    /* Change to your desired text color */
+}
+
+/* Style for the table */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+/* Style for table headers */
+.table thead {
+    background-color: #0a276c;
+    /* Change to your desired header background color */
+    color: #fff;
+    /* Change to your desired header text color */
+}
+
+.table th {
+    padding: 10px;
+}
+
+/* Style for table rows */
+.table tbody {
+    background-color: #f8f8f8;
+    /* Change to your desired row background color */
+}
+
+.table td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style for the "Ban" button */
+.button-ban {
+    background-color: rgb(25, 25, 244);
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button-ban:hover {
+    background-color: #d63030;
+    /* Change to a slightly lighter red for hover effect */
+}
